@@ -1,2 +1,5 @@
 # Nyoba
-untuk melebgkapi tugas 3
+ Mau nyoba command:
+ git add
+ git commit
+ git push
